@@ -1,3 +1,3 @@
--	Made a Traffic Signal Classifier that classifies different traffic signals
--	Algorithm/ Techniques Used- CNN(Conv2D), MaxPool, Batch Normalization layers and Data Augmentation.
--	Accuracy- 98.2%
+- Using PyTorch and MONAI created an Image Segmentation Model that segments the human liver from a Public CT SCAN Dataset.
+- Algorithm/Techniques Used: 3D U-net Architecture, Data Transforms, Data Augmentation.
+- Result- Achieved 50% faster convergence and less dice loss as compared to other pre-trained models
